@@ -23,3 +23,6 @@
 
 [**School Infrastructure in Mozambique: A Detailed Overview**](https://medium.com/@zauzau/school-infrastructure-in-mozambique-a-detailed-overview-ed6e9563e4a7)  
 #Escolas #Moçambique #Educação #AnáliseDeDados
+
+[**Zero to One: A Jornada de um Entusiasta de Dados em Moçambique**](https://medium.com/@zauzau/zero-to-one-a-jornada-de-um-entusiasta-de-dados-em-mo%C3%A7ambique-5a6318c23971)  
+#CiênciaDeDados #DataWave #Jornada #Moçambique #MercadoDeDados
